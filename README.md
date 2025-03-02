@@ -2,7 +2,7 @@
 Pengalaman Belajar Menggunakan Github Course Dicoding
 
 02 Maret 2025
-Belajar Dasar Git Dengan Github, (Progres 40%)
+Belajar Dasar Git Dengan Github, (Progres 50%)
 * Pengenalan Git dan Github
 * Pengenalan Repository
 * Latihan Membuat Readme
